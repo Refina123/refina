@@ -1,0 +1,89 @@
+"ID","Team","Title","Description","Status","Estimate","Priority","Project ID","Project","Creator","Assignee","Labels","Cycle Number","Cycle Name","Cycle Start","Cycle End","Created","Updated","Started","Triaged","Completed","Canceled","Archived","Due Date","Parent issue","Initiatives","Project Milestone ID","Project Milestone","SLA Status","UUID","Time in status (minutes)","Related to","Blocked by","Duplicate of"
+"GG-1","Gg","Get familiar with Linear","Welcome to Linear! 
+
+Watch an introductory video and access a list of resources below.
+
+[LinearH264Version_1.mp4](https://uploads.linear.app/fe63b3e2-bf87-46c0-8784-cd7d639287c8/a044fb03-9b84-470c-ab6f-8eae613e2529/98d7274d-de7f-4910-b3f3-f72e8e286a98)
+
+### **Choose your setup guide** based on your company stage:
+
+* [Small teams](<https://linear.app/docs/how-to-use-linear-small-teams>)
+  For early-stage startups and projects
+* [Startups & mid-size companies](<https://linear.app/docs/how-to-use-linear-startups-mid-size-companies>)
+  For growing teams with cross-functional needs
+* [Large & scaling companies](<https://linear.app/docs/how-to-use-linear-large-scaling-companies>)
+  For enterprise and high-growth teams with complex workflows
+
+### **Need help getting started?**
+
+* [Join our Slack community](<https://linear.app/join-slack>)
+  Connect with other Linear users and get tips
+* [Join a live ](<https://lu.ma/welcome-to-linear?utm_source=docs>)[onboarding](<https://lu.ma/welcome-to-linear?utm_source=onboarding>)[ ](<https://lu.ma/welcome-to-linear?utm_source=docs>)[session](<https://lu.ma/welcome-to-linear?utm_source=onboarding>)
+  Learn the essentials and see demos of core workflows
+
+---
+
+If you have any questions hit `?` in the bottom left > Contact us.
+
+![contactlinear (1).gif](https://uploads.linear.app/fe63b3e2-bf87-46c0-8784-cd7d639287c8/bc9bbf62-4192-411f-88f6-c89c9150503e/4df0346e-803b-4f58-8527-4aeb30d88411)","In Progress",,"High",,,,"refinayuda2@gmail.com","Feature",,,,,"2026-02-15T14:32:53.594Z","2026-02-15T14:42:56.815Z","2026-02-15T14:42:56.797Z",,,,,,,"",,,,"c6f7791e-2326-4856-8c41-736054d802a7",1,"","",
+"GG-3","Gg","Connect your tools","Integrations turn Linear into your source of truth around product development. Keep data in sync, and eliminate manual updates between tools.
+
+![connect-your-tools.png](https://uploads.linear.app/fe63b3e2-bf87-46c0-8784-cd7d639287c8/c2eae035-37e2-4754-adcb-b8305431aa1f/c92d70c7-e6d0-4fa2-a0fd-78f6e780993a)
+
+### **Key integrations**
+
+* [**Slack**](<https://linear.app/settings/integrations/slack>)
+  Create issues from Slack messages and sync threads
+* [**GitHub**](<https://linear.app/settings/integrations/github>)** / **[**GitLab**](<https://linear.app/settings/integrations/gitlab>)
+  Automate your pull request, commit workflows, and keep issues synced both ways
+* [**Agents**](<https://linear.app/integrations/agents>)
+  Deploy AI agents that work alongside you as teammates
+
+### **Browse all integrations**
+
+Discover 150+ available connections in our [integration directory](<https://linear.app/integrations>) – from bug creation via support tools (Intercom, Zendesk), to issues created from design explorations (Figma).
+
+### **Linear API**
+
+If you need something more custom, you can build directly on the Linear API (built on GraphQL). [See our Dev Docs to learn more](<https://linear.app/developers>).","Todo",,"No priority",,,,"refinayuda2@gmail.com","",,,,,"2026-02-15T14:32:53.594Z","2026-02-15T14:42:02.434Z",,,,,,,,"",,,,"2b5ce9c0-700c-4440-a543-d64a6d6b31b4",11,"","",
+"GG-2","Gg","Set up your teams","This workspace is a container for your organization’s work. 
+
+* [Learn more about Workspaces](<https://linear.app/docs/workspaces>)
+  How to configure settings and workflows 
+
+Teams are how you organize people and work in Linear.
+
+* [Learn about Teams](<https://linear.app/docs/teams>)
+  How to structure teams and configure workflows
+
+Teams are made of members with defined roles (Admin, Member, Guest).
+
+* [Learn more about Members](<https://linear.app/docs/invite-members>)
+  Add your team and assign roles
+
+---
+
+Ready to add your team? Invite via CSV or a unique link in [settings](<http://linear.app/settings/members>).","Todo",,"No priority",,,,"refinayuda2@gmail.com","",,,,,"2026-02-15T14:32:53.594Z","2026-02-15T14:42:06.402Z",,,,,,,,"",,,,"d59be7ec-3c4f-467b-a63a-131ab0c910b7",11,"","",
+"GG-4","Gg","Import your data","Sync data between Linear and your other tools.
+
+![import-your-data.png](https://uploads.linear.app/fe63b3e2-bf87-46c0-8784-cd7d639287c8/80d7e050-dd1f-4d4f-8257-b29c16087017/65c16454-30f3-4f4a-8f25-c2428d64ff57)
+
+Whether you're exploring Linear, running a pilot, or ready for full migration, we’ve got you covered. 
+
+### **Exploring Linear:**
+
+* [**Pitch Linear**](<https://linear.app/switch/pitch-guide>)
+  Build your business case and get organizational buy-in
+* [**Run a pilot**](<https://linear.app/switch/pilot-guide>)
+  Test Linear with a small team before rolling out company-wide
+
+### **Ready to migrate:**
+
+* [**Migration guide**](<https://linear.app/switch/migration-guide>) 
+  Step-by-step process for importing data and rolling out Linear
+
+---
+
+If you have any questions hit `?` in the bottom left > Contact us.
+
+![contactlinear (1).gif](https://uploads.linear.app/fe63b3e2-bf87-46c0-8784-cd7d639287c8/191f6985-8562-4f62-9482-a094b69c4756/0e4ff63b-3da2-4699-912b-04afb68511e8)","Todo",,"No priority",,,,"divaeni13@gmail.com","",,,,,"2026-02-15T14:32:53.594Z","2026-02-15T14:42:24.422Z",,,,,,,,"",,,,"e34f679c-d593-45b5-8a69-43b2304518ba",11,"","",
